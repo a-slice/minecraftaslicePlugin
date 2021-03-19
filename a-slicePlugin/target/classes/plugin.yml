@@ -2,7 +2,7 @@ name: aslicePlugin
 version: 1.0
 main: io.github.aslicePlugin.aslicePlugin
 commands:
-  kit:
+  kitslice:
     description: gives items to the player
     usage: /<command>
     permission: aslicePlugin.op

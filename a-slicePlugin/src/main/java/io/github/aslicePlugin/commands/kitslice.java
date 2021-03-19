@@ -5,7 +5,7 @@ import org.bukkit.command.*;
 import org.bukkit.entity.Player;
 import org.bukkit.inventory.ItemStack;
 
-public class kit implements CommandExecutor {
+public class kitslice implements CommandExecutor {
 
     // This method is called, when somebody uses our command
     @Override
